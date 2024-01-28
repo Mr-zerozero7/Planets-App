@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.planet-item {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.heading {
+  color: #05acff;
+}
+.planet-image {
+  width: 500px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.description {
+  color: white;
+  font-weight: 500;
+  width: 800px;
+}
